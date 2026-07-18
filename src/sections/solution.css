@@ -1,0 +1,12 @@
+.solution{padding:116px 0 120px;}
+.solution .head{max-width:720px;}
+.solution .lede{font-size:19px;line-height:1.6;color:var(--muted);margin-top:22px;max-width:640px;}
+.benefits{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-top:64px;}
+.benefit{background:var(--card);border:1px solid var(--border);padding:34px 30px 36px;}
+.benefit .icobox{width:52px;height:52px;border-radius:50%;background:rgba(196,103,58,0.10);display:flex;align-items:center;justify-content:center;margin-bottom:24px;}
+.benefit h3{font-size:21px;font-weight:700;line-height:1.3;}
+.benefit p{font-size:15px;line-height:1.65;color:var(--muted);margin-top:10px;}
+.stack-strip{margin-top:64px;background:var(--dark);display:flex;align-items:center;gap:60px;padding:44px 52px;}
+.stack-strip .viz{flex-shrink:0;}
+.stack-strip p{font-size:20px;line-height:1.55;color:var(--cream);max-width:560px;}
+.stack-strip p .acc{color:var(--accent);}

@@ -1,0 +1,5 @@
+.problem{background:var(--bg-alt);padding:112px 0;}
+.problem .grid{display:flex;justify-content:space-between;align-items:center;gap:80px;}
+.problem h2{font-size:42px;line-height:1.22;margin-top:16px;max-width:480px;letter-spacing:-0.5px;}
+.problem p{font-size:17px;line-height:1.65;color:var(--muted);margin-top:24px;max-width:470px;}
+.gapviz{flex-shrink:0;width:380px;}

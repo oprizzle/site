@@ -1,0 +1,17 @@
+{
+  "order": [
+    "nav",
+    "hero",
+    "problem",
+    "statement",
+    "solution",
+    "ethos",
+    "steps",
+    "benefits",
+    "terracotta",
+    "results",
+    "team",
+    "contact",
+    "footer"
+  ]
+}

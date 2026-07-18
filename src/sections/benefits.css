@@ -1,0 +1,10 @@
+.whyband{background:var(--bg-alt);padding:116px 0 122px;}
+.whyband .head{text-align:center;max-width:820px;margin:0 auto;}
+.whyband h2{font-size:44px;line-height:1.25;margin-top:16px;letter-spacing:-0.5px;}
+.why-grid{display:grid;grid-template-columns:repeat(3,1fr);margin-top:66px;border:1px solid var(--border);background:var(--card);}
+.why-card{padding:36px 32px 38px;border-right:1px solid var(--border);border-bottom:1px solid var(--border);}
+.why-card:nth-child(3n){border-right:none;}
+.why-card:nth-child(n+4){border-bottom:none;}
+.why-card .icoline{height:46px;margin-bottom:18px;}
+.why-card h3{font-size:19px;font-weight:700;line-height:1.3;}
+.why-card p{font-size:14.5px;line-height:1.65;color:var(--muted);margin-top:9px;}

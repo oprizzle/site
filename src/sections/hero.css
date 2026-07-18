@@ -1,0 +1,13 @@
+.hero{padding:96px 0 0;}
+.hero .grid{display:flex;justify-content:space-between;align-items:center;gap:60px;}
+.hero h1{font-size:68px;line-height:1.04;letter-spacing:-1.8px;margin-top:20px;max-width:560px;}
+.hero .lede{font-size:19px;line-height:1.55;color:var(--muted);margin-top:24px;max-width:480px;}
+.hero-cta{margin-top:36px;display:flex;gap:20px;}
+.hero-art{flex-shrink:0;width:440px;}
+.hero-art svg{width:100%;height:auto;display:block;}
+.aud{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin:88px 0 0;}
+.aud-card{background:var(--card);border:1px solid var(--border);border-top:3px solid var(--accent);padding:30px 34px 32px;display:flex;gap:24px;align-items:flex-start;}
+.aud-card .txt .label{display:block;margin-bottom:10px;}
+.aud-card p{font-size:20px;line-height:1.45;color:var(--ink);}
+.aud-card .icobox{flex-shrink:0;width:56px;height:56px;display:flex;align-items:center;justify-content:center;background:rgba(196,103,58,0.10);border-radius:50%;}
+.hero-bottom-pad{padding-bottom:104px;}

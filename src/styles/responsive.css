@@ -1,0 +1,14 @@
+@media (max-width:1020px){
+  .hero .grid,.problem .grid,.team .grid,.contact .grid,.stack-strip{flex-direction:column;align-items:flex-start;}
+  .hero h1{font-size:44px;}
+  .aud,.benefits,.step-flow,.why-grid,.stats,.quotes,.ethos-grid{grid-template-columns:1fr;}
+  .step-flow::before{display:none;}
+  .why-card{border-right:none;border-bottom:1px solid var(--border);}
+  .why-card:last-child{border-bottom:none;}
+  .form-card{width:100%;}
+  .team-list{margin-top:0;}
+  .nav-links{display:none;}
+  .statement .big,.whole .big{font-size:28px;}
+  .ethos-item{border-right:none;padding:24px 0;}
+  .ethos-grid{border-left:none;}
+}

@@ -1,0 +1,14 @@
+.contact{background:var(--dark);padding:118px 0;}
+.contact .grid{display:flex;justify-content:space-between;gap:80px;align-items:flex-start;}
+.contact-copy{max-width:470px;}
+.contact-copy h2{font-size:44px;line-height:1.22;color:var(--cream);margin-top:16px;letter-spacing:-0.5px;}
+.contact-copy p{font-size:16px;line-height:1.65;color:var(--cream-muted);margin-top:24px;max-width:410px;}
+.contact-cta{margin-top:34px;display:flex;gap:20px;}
+.form-card{flex-shrink:0;width:480px;background:var(--form);padding:34px;}
+.form-row{display:flex;gap:14px;}
+.form-group{margin-bottom:16px;flex:1;}
+.form-group label{display:block;font-size:11px;letter-spacing:1.4px;text-transform:uppercase;color:var(--cream-muted);margin-bottom:9px;}
+.form-group input,.form-group textarea{width:100%;background:var(--input);border:1px solid #45403A;border-radius:2px;color:var(--cream);font-family:'Oxygen',sans-serif;font-size:14px;padding:12px 15px;height:44px;}
+.form-group textarea{height:84px;resize:vertical;padding-top:13px;}
+.form-group input::placeholder,.form-group textarea::placeholder{color:#8A8378;}
+.form-card .btn{width:100%;text-align:center;padding:16px 0;border:none;}

@@ -1,0 +1,21 @@
+{
+  "title": "Figabl — The Inventory Finance Company",
+  "description": "Ecommerce growth capital, without losing control. Figabl funds inventory purchases so you can scale without giving up equity.",
+  "url": "https://figabl.com/",
+  "ogImage": "og.png",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Figabl Inc",
+    "url": "https://figabl.com/",
+    "email": "info@figabl.com",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "680 S Cache St STE 100-7414",
+      "addressLocality": "Jackson",
+      "addressRegion": "WY",
+      "postalCode": "83001",
+      "addressCountry": "US"
+    }
+  }
+}

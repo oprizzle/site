@@ -1,0 +1,12 @@
+.team{background:var(--bg-alt);padding:112px 0 118px;}
+.team .grid{display:flex;justify-content:space-between;gap:80px;align-items:flex-start;}
+.team-copy{max-width:470px;}
+.team-copy h2{font-size:42px;line-height:1.22;margin-top:16px;letter-spacing:-0.5px;}
+.team-copy p{font-size:16px;line-height:1.65;color:var(--muted);margin-top:22px;}
+.team-list{flex:1;max-width:520px;margin-top:64px;}
+.member{background:var(--card);border:1px solid var(--border);padding:24px 28px;display:flex;gap:20px;align-items:flex-start;}
+.member + .member{margin-top:14px;}
+.member .avatar{width:44px;height:44px;font-size:14px;}
+.member .name{font-size:18px;font-weight:700;}
+.member .role{font-size:12px;letter-spacing:1.6px;text-transform:uppercase;color:var(--accent);margin-top:3px;}
+.member .bio{font-size:14px;line-height:1.6;color:var(--muted);margin-top:8px;}

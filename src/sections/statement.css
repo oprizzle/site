@@ -1,0 +1,5 @@
+.statement{background:var(--dark);padding:130px 0;}
+.statement .inner{max-width:860px;margin:0 auto;padding:0 40px;text-align:center;}
+.statement .big{font-size:40px;line-height:1.35;color:var(--cream);letter-spacing:-0.5px;}
+.statement .big .acc{color:var(--accent);}
+.statement .sub{font-size:19px;line-height:1.55;color:var(--cream-muted);margin-top:26px;}

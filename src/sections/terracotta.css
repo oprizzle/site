@@ -1,0 +1,5 @@
+.whole{background:var(--accent);padding:126px 0;}
+.whole .inner{max-width:860px;margin:0 auto;padding:0 40px;text-align:center;}
+.whole .label{color:rgba(244,241,234,0.75);}
+.whole .big{font-size:38px;line-height:1.4;color:var(--cream);margin-top:26px;letter-spacing:-0.4px;}
+.whole .sub{font-size:17px;line-height:1.6;color:rgba(244,241,234,0.88);margin-top:24px;max-width:620px;margin-left:auto;margin-right:auto;}

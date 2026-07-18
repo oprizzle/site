@@ -1,0 +1,7 @@
+nav{background:var(--bg);border-bottom:1px solid var(--border);position:sticky;top:0;z-index:50;}
+nav .container{display:flex;align-items:center;justify-content:space-between;height:70px;max-width:1220px;}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink);}
+.brand .word{font-size:24px;font-weight:300;letter-spacing:-0.2px;}
+.nav-links{display:flex;align-items:center;gap:36px;}
+.nav-links a{font-size:13px;color:var(--muted);text-decoration:none;}
+.nav-links a.btn{color:var(--cream);}
